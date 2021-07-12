@@ -20,11 +20,10 @@ Run CPU Emulator (from tools folder)
 ![CPU Emulator](images/CPU_Emulator.png)
 
 File -> Load Program -> select GameOfLife.asm (from Game Of Life folder)
-![Select GameOfLife.asm](images/Program.png)
+![Select GameOfLife.asm](images/Select_Program.png)
 
 File -> Load Script -> select .tst files (from Game Of Life folder)
-![Select Script](images/Script.png)
+![Select Script](images/Select_Script.png)
 
-From Animate dropdown select `No Animation`
-
-Click run to see simulation (may be slow due to emulation process)
+From Animate dropdown select `No Animation`. Click run to see simulation (may be slow due to emulation process)
+![Run Script](images/Run_Script.png)
